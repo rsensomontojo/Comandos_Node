@@ -58,5 +58,3 @@ Comandos para mantener un entorno limpio y sin errores.
 
 ---
 
-### 🚀 Con estos comandos, gestionar proyectos Node.js será mucho más fácil. 💪
-
